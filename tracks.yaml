@@ -224,5 +224,4 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/KIT-MRT/mrt_cmake_modules.git
-    version: 1.0.9
-    version_saved: :{auto}
+    version: :{auto}
