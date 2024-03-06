@@ -218,7 +218,7 @@ tracks:
     last_version: 1.0.9
     name: mrt_cmake_modules
     patches: null
-    release_inc: '3'
+    release_inc: '4'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: rolling
