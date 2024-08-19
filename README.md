@@ -1,3 +1,26 @@
+## mrt_cmake_modules (jazzy) - 1.0.10-1
+
+The packages in the `mrt_cmake_modules` repository were released into the `jazzy` distro by running `/home/poggenf/.virtualenvs/bloom/bin/bloom-release --rosdistro jazzy mrt_cmake_modules` on `Mon, 19 Aug 2024 21:27:21 -0000`
+
+The `mrt_cmake_modules` package was released.
+
+Version of package(s) in repository `mrt_cmake_modules`:
+
+- upstream repository: https://github.com/KIT-MRT/mrt_cmake_modules.git
+- release repository: https://github.com/ros2-gbp/mrt_cmake_modules-release.git
+- rosdistro version: `1.0.9-5`
+- old version: `1.0.9-5`
+- new version: `1.0.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## mrt_cmake_modules (rolling) - 1.0.10-1
 
 The packages in the `mrt_cmake_modules` repository were released into the `rolling` distro by running `/home/poggenf/.virtualenvs/bloom/bin/bloom-release --rosdistro rolling mrt_cmake_modules` on `Mon, 19 Aug 2024 20:06:15 -0000`
