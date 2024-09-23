@@ -1,3 +1,26 @@
+## mrt_cmake_modules (humble) - 1.0.11-1
+
+The packages in the `mrt_cmake_modules` repository were released into the `humble` distro by running `/home/fabian/.local/bin/bloom-release --rosdistro humble mrt_cmake_modules` on `Mon, 23 Sep 2024 13:03:52 -0000`
+
+The `mrt_cmake_modules` package was released.
+
+Version of package(s) in repository `mrt_cmake_modules`:
+
+- upstream repository: https://github.com/KIT-MRT/mrt_cmake_modules.git
+- release repository: https://github.com/ros2-gbp/mrt_cmake_modules-release.git
+- rosdistro version: `1.0.10-1`
+- old version: `1.0.10-1`
+- new version: `1.0.11-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## mrt_cmake_modules (jazzy) - 1.0.11-2
 
 The packages in the `mrt_cmake_modules` repository were released into the `jazzy` distro by running `/home/fabian/.local/bin/bloom-release --rosdistro jazzy mrt_cmake_modules` on `Mon, 23 Sep 2024 12:59:47 -0000`
